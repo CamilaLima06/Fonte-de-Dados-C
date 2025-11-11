@@ -7,13 +7,13 @@ Banco de Dados- 1 Semestre 2025
 
 
 
-##Atividade 3: Introduçao a extraçao de dados do comex stat e confecçao de dados no power BI
+## Atividade 3: Introduçao a extraçao de dados do comex stat e confecçao de dados no power BI
 <img width="523" height="423" alt="image" src="https://github.com/user-attachments/assets/5c02a5b7-4d2b-43aa-9635-08fcd9f5e607" />
 
 
 
 
-##Atividade 4: Extraçao de dados do comex stat e confecçao de dados no power BI
+## Atividade 4: Extraçao de dados do comex stat e confecçao de dados no power BI
 <img width="559" height="208" alt="image" src="https://github.com/user-attachments/assets/b3a546be-8e53-448c-b9a6-cdcf0f3da950" />
 
 
@@ -27,5 +27,9 @@ Banco de Dados- 1 Semestre 2025
 <img width="524" height="518" alt="image" src="https://github.com/user-attachments/assets/f6fce6ef-0dde-4195-8d30-478b51b7d065" />
 <img width="527" height="293" alt="image" src="https://github.com/user-attachments/assets/ec62c6ce-19bb-40fd-9960-e4346e1bd4e3" />
 
-##Atividade 6: Regressao linear por meio do excel 
+## Atividade 6: Regressao linear por meio do excel 
 <img width="566" height="513" alt="image" src="https://github.com/user-attachments/assets/7210034d-e4f8-4bec-832e-f3d35fe7420d" />
+Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas. Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período detrminado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc.
+<img width="559" height="259" alt="image" src="https://github.com/user-attachments/assets/2e11b8ea-2d01-4fca-b274-46853001aa53" />
+<img width="574" height="318" alt="image" src="https://github.com/user-attachments/assets/aa1b83eb-cb4e-4e4e-bc94-0c4fc05ec36f" />
+
