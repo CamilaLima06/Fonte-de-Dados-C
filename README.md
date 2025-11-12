@@ -11,11 +11,13 @@ Banco de Dados- 1 Semestre 2025
 ## Atividade 4: Extraçao de dados do comex stat e confecçao de dados no power BI
 <img width="559" height="208" alt="image" src="https://github.com/user-attachments/assets/b3a546be-8e53-448c-b9a6-cdcf0f3da950" />
 
-##Atividade : Tratamento de dados do gráfico Ice Cream
-## Dados no excel
+## Atividade 5: Tratamento de dados do gráfico Ice Cream
+## Dados no excel:
+
 <img width="967" height="530" alt="image" src="https://github.com/user-attachments/assets/0ab83a1b-fc9b-4530-be8f-9ec3df9fbcb2" />
 
 ## Dados no colab do google
+
 <img width="632" height="424" alt="image" src="https://github.com/user-attachments/assets/5c649236-e576-4149-9d21-44461a81ee02" />
 <img width="524" height="518" alt="image" src="https://github.com/user-attachments/assets/f6fce6ef-0dde-4195-8d30-478b51b7d065" />
 <img width="527" height="293" alt="image" src="https://github.com/user-attachments/assets/ec62c6ce-19bb-40fd-9960-e4346e1bd4e3" />
