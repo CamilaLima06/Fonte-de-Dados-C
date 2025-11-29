@@ -36,3 +36,5 @@ Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Co
 <img width="1044" height="494" alt="511599912-fbf252fc-70b9-4cc7-b2ab-3f0c384afbc8" src="https://github.com/user-attachments/assets/c3887177-413b-4012-8565-fa62f954a11b" />
 <img width="940" height="531" alt="511600097-5486c26e-0dcc-4f5e-ae46-55f812b9106c" src="https://github.com/user-attachments/assets/094a5c09-1238-467e-b701-c69d0eeeaa67" />
 
+## Prova - Gráfico BI
+<img width="1310" height="749" alt="Captura de tela 2025-11-28 215204" src="https://github.com/user-attachments/assets/eaee9fd4-f45f-4732-bb11-d1ef2d989039" />
